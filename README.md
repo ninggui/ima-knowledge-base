@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # ima-knowledge-base
 
 **腾讯 ima 知识库 API 操作：检索/读取/订阅库。**
